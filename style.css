@@ -83,7 +83,7 @@
     width: 350px;
     filter: drop-shadow(0 0 20px red);
     animation: float 3s ease-in-out infinite;
-    border-radius: 20px; /* Esto redondea las esquinas */
+    border-radius: 20px; 
   }
   
   /* ANIMACIÓN */
