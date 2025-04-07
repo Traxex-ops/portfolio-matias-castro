@@ -80,10 +80,11 @@
     font-weight: 300;
   }
   .hero-img img {
-    width: 350px;
+    width: 300px;
     filter: drop-shadow(0 0 20px red);
     animation: float 3s ease-in-out infinite;
-    border-radius: 20px; 
+    border-radius: 20px;
+    margin-left: 20px;   
   }
   
   /* ANIMACIÓN */
