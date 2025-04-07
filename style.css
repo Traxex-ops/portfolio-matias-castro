@@ -95,4 +95,29 @@
       transform: translateY(-10px);
     }
   }
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+  }
+  
+  header {
+    padding: 40px 20px;
+  }
+  
+  .hero-img img {
+    max-width: 300px;
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 20px;
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+    transition: transform 0.3s;
+  }
+  
+  .hero-img img:hover {
+    transform: scale(1.05);
+  }
+  
   
