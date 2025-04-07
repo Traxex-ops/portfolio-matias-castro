@@ -79,11 +79,11 @@
     margin-top: 1rem;
     font-weight: 300;
   }
-  
   .hero-img img {
     width: 350px;
     filter: drop-shadow(0 0 20px red);
     animation: float 3s ease-in-out infinite;
+    border-radius: 20px; /* Esto redondea las esquinas */
   }
   
   /* ANIMACIÓN */
